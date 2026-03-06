@@ -71,7 +71,7 @@ export default function Experiences() {
 
                 <StyledH3>FIRST Robotics Competition</StyledH3>
                 <h4>FRC Team 5123</h4>
-                <StyledImg src="../../../public/robot.jpg" alt="Robot"/>
+                <StyledImg src="../../public/robot.jpg" alt="Robot"/>
                 <ul>
                     <li>Architected and programmed robot control systems using Java and FRC framework, leading team to
                         2023 NYC Regional
