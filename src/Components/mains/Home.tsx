@@ -34,7 +34,7 @@ export default function Home(){
     return (
         <StyledMain>
             <title>Home | Resume</title>
-            <StyledImg src="/public/adenny.jpg" alt="Alen Denny"/>
+            <StyledImg src="/adenny.jpg" alt="Alen Denny"/>
             <h4>I am an ambitious Computer Science undergraduate at Boston University. I am looking to gain hands-on
                 experience in a technical field
                 where I can apply my knowledge of programming and problem-solving to grow professionally and develop new
